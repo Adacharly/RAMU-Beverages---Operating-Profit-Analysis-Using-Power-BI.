@@ -1,7 +1,8 @@
 # 🥤RAMU-Beverages---Operating-Profit-Analysis-Using-Power-BI.
 RAMU Beverages, a Coca-Cola distributor, engaged us to analyze operating profit across its stores. We identified profit by beverage, recommended qualitative analysis insights, and added regional sales mapping and quarterly financial reporting within an interactive Power BI dashboard for comprehensive performance tracking.
 
-<img width="723" height="389" alt="Coca Cola Dashboard" src="https://github.com/user-attachments/assets/e00e17e4-5090-458b-8511-27373cb826fb" />
+<img width="715" height="388" alt="Coca Cola Dashboard " src="https://github.com/user-attachments/assets/0d83caa1-6bc0-4864-b8e9-80fd598b8b3c" />
+
 
 ---
 
